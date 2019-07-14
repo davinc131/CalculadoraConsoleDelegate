@@ -1,0 +1,11 @@
+C:\Users\davin\source\repos\CalculadoraConsoleDelegate\bin\Debug\netcoreapp2.2\CalculadoraConsoleDelegate.deps.json
+C:\Users\davin\source\repos\CalculadoraConsoleDelegate\bin\Debug\netcoreapp2.2\CalculadoraConsoleDelegate.runtimeconfig.json
+C:\Users\davin\source\repos\CalculadoraConsoleDelegate\bin\Debug\netcoreapp2.2\CalculadoraConsoleDelegate.runtimeconfig.dev.json
+C:\Users\davin\source\repos\CalculadoraConsoleDelegate\bin\Debug\netcoreapp2.2\CalculadoraConsoleDelegate.dll
+C:\Users\davin\source\repos\CalculadoraConsoleDelegate\bin\Debug\netcoreapp2.2\CalculadoraConsoleDelegate.pdb
+C:\Users\davin\source\repos\CalculadoraConsoleDelegate\obj\Debug\netcoreapp2.2\CalculadoraConsoleDelegate.csprojAssemblyReference.cache
+C:\Users\davin\source\repos\CalculadoraConsoleDelegate\obj\Debug\netcoreapp2.2\CalculadoraConsoleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\davin\source\repos\CalculadoraConsoleDelegate\obj\Debug\netcoreapp2.2\CalculadoraConsoleDelegate.AssemblyInfoInputs.cache
+C:\Users\davin\source\repos\CalculadoraConsoleDelegate\obj\Debug\netcoreapp2.2\CalculadoraConsoleDelegate.AssemblyInfo.cs
+C:\Users\davin\source\repos\CalculadoraConsoleDelegate\obj\Debug\netcoreapp2.2\CalculadoraConsoleDelegate.dll
+C:\Users\davin\source\repos\CalculadoraConsoleDelegate\obj\Debug\netcoreapp2.2\CalculadoraConsoleDelegate.pdb
